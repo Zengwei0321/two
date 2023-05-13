@@ -3,3 +3,4 @@ public class test1 {
     String y = "你嗎";
     System.out.println(x + y);
 }
+asdqwdx
